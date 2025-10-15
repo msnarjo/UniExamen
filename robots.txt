@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.uniexamen.net/sitemap.xml
+Sitemap: https://uniexamen.net/sitemap.xml
