@@ -1,1 +1,1 @@
-/  /inicio  200
+/  /inicio.html  200
